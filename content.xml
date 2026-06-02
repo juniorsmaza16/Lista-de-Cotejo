@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ode><userPreferences><userPreference><key>theme</key><value>base</value></userPreference></userPreferences><odeResources><odeResource><key>odeVersionId</key><value>20260602200206FZUJCI</value></odeResource><odeResource><key>odeId</key><value>20260602164911JNQVRG</value></odeResource><odeResource><key>odeVersionName</key><value>0</value></odeResource><odeResource><key>isDownload</key><value>true</value></odeResource></odeResources><odeProperties><odeProperty><key>pp_title</key><value>Lista de Cotejo y Rúbrica</value></odeProperty><odeProperty><key>pp_lang</key><value>es</value></odeProperty><odeProperty><key>pp_author</key><value>Junior Stalin Maza</value></odeProperty><odeProperty><key>license</key><value>creative commons: attribution - share alike 4.0</value></odeProperty><odeProperty><key>pp_description</key><value/></odeProperty><odeProperty><key>exportSource</key><value>true</value></odeProperty><odeProperty><key>pp_addExeLink</key><value>true</value></odeProperty><odeProperty><key>pp_exportElp</key><value>false</value></odeProperty><odeProperty><key>pp_addPagination</key><value>false</value></odeProperty><odeProperty><key>pp_addSearchBox</key><value>false</value></odeProperty><odeProperty><key>pp_addAccessibilityToolbar</key><value>false</value></odeProperty><odeProperty><key>pp_extraHeadContent</key><value/></odeProperty><odeProperty><key>footer</key><value/></odeProperty></odeProperties><odeNavStructures><odeNavStructure><odePageId>20260602200206LTDZKO</odePageId><odeParentPageId/><pageName>Evaluación de los Aprendizajes</pageName><odeNavStructureOrder>1</odeNavStructureOrder><odeNavStructureProperties><odeNavStructureProperty><key>titleNode</key><value>Evaluación de los Aprendizajes</value></odeNavStructureProperty><odeNavStructureProperty><key>titleHtml</key><value/></odeNavStructureProperty><odeNavStructureProperty><key>editableInPage</key><value>false</value></odeNavStructureProperty><odeNavStructureProperty><key>titlePage</key><value>Evaluación de los Aprendizajes</value></odeNavStructureProperty><odeNavStructureProperty><key>visibility</key><value>true</value></odeNavStructureProperty><odeNavStructureProperty><key>description</key><value/></odeNavStructureProperty></odeNavStructureProperties><odePagStructures><odePagStructure><odePageId>20260602200206LTDZKO</odePageId><odeBlockId>20260602200206OLTQRL</odeBlockId><blockName/><iconName/><odePagStructureOrder>1</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260602200206LTDZKO</odePageId><odeBlockId>20260602200206OLTQRL</odeBlockId><odeIdeviceId>20260602115420876WSC</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;p&gt;&lt;img src="{{context_path}}/20260602115420876WSC/logounl.jpeg" width="398" height="127" alt="" style="display: block; margin-left: auto; margin-right: auto;"&gt;&lt;/p&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"20260602115420876WSC","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;p&gt;&lt;img src=\"{{context_path}}/20260602115420876WSC/logounl.jpeg\" width=\"398\" height=\"127\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /&gt;&lt;/p&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure><odePagStructure><odePageId>20260602200206LTDZKO</odePageId><odeBlockId>20260602200206TNWVJC</odeBlockId><blockName/><iconName/><odePagStructureOrder>2</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260602200206LTDZKO</odePageId><odeBlockId>20260602200206TNWVJC</odeBlockId><odeIdeviceId>20260602142806353FTM</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div style="overflow-x: auto;"&gt;
+&lt;h3&gt;Lista de Cotejo sobre la Exposición Oral&lt;/h3&gt;
+&lt;!-- DATOS INFORMATIVOS --&gt;
+&lt;table style="width: 100%; border-collapse: collapse; border: 2px solid #000; margin-bottom: 15px;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;Institución:&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;Fecha:&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;Estudiante:&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;Curso:&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;Tema:&lt;/strong&gt;&lt;/td&gt;
+&lt;td colspan="3" style="border: 2px solid #000; padding: 8px;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- LISTA DE COTEJO --&gt;
+&lt;table style="width: 100%; border-collapse: collapse; border: 2px solid #000;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="border: 2px solid #000; padding: 8px;"&gt;Indicadores&lt;/th&gt;
+&lt;th style="border: 2px solid #000; padding: 8px;"&gt;Cumple&lt;/th&gt;
+&lt;th style="border: 2px solid #000; padding: 8px;"&gt;No cumple&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;1. Saluda e introduce el tema con claridad al inicio de la exposición.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i1" value="1"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i1" value="0"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;2. Presenta los objetivos o propósito de la exposición.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i2" value="1"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i2" value="0"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;3. Utiliza un lenguaje claro y preciso.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i3" value="1"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i3" value="0"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;4. Desarrolla el tema con coherencia y un orden lógico.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i4" value="1"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i4" value="0"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;5. Demuestra conocimiento y dominio del tema.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i5" value="1"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i5" value="0"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;6. Mantiene una pronunciación, entonación y volumen adecuado.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i6" value="1"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i6" value="0"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;7. Hace contacto visual con el público durante la exposición.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i7" value="1"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i7" value="0"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;8. Emplea recursos de apoyo visual como diapositivas, esquemas, etc.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i8" value="1"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i8" value="0"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;9. Responde con seguridad las preguntas del público.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i9" value="1"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i9" value="0"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;10. Presenta conclusiones claras y cierra la exposición de manera ordenada.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i10" value="1"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; text-align: center;"&gt;&lt;input type="radio" name="i10" value="0"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;&lt;button type="button" onclick="calificarListaCotejo()" style="padding: 8px 15px;"&gt; Calificar &lt;/button&gt;
+&lt;div id="resultado" style="margin-top: 15px; padding: 10px; border: 2px solid #000;"&gt;&lt;/div&gt;
+&lt;br&gt;
+&lt;table style="width: 40%; border-collapse: collapse; border: 2px solid #000;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th style="border: 2px solid #000; padding: 8px;"&gt;Valoración&lt;/th&gt;
+&lt;th style="border: 2px solid #000; padding: 8px;"&gt;Nivel&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;9 - 10&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;Excelente&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;7 - 8&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;Bueno&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;5 - 6&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;Regular&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;0 - 4&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;Insuficiente&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;script&gt;
+function calificarListaCotejo() {
+
+let total = 0;
+
+for(let i = 1; i &lt;= 10; i++) {
+
+let opcion = document.querySelector('input[name="i' + i + '"]:checked');
+
+if(opcion === null) {
+document.getElementById("resultado").innerHTML =
+"&lt;strong&gt;Debe seleccionar una opción en todos los indicadores.&lt;/strong&gt;";
+return;
+}
+
+total += Number(opcion.value);
+}
+
+let nivel = "";
+
+if(total &gt;= 9){
+nivel = "Excelente";
+}
+else if(total &gt;= 7){
+nivel = "Bueno";
+}
+else if(total &gt;= 5){
+nivel = "Regular";
+}
+else{
+nivel = "Insuficiente";
+}
+
+document.getElementById("resultado").innerHTML =
+"&lt;strong&gt;Indicadores cumplidos:&lt;/strong&gt; " + total + " de 10&lt;br&gt;&lt;br&gt;" +
+"&lt;strong&gt;Calificación final:&lt;/strong&gt; " + total.toFixed(2) + " / 10&lt;br&gt;&lt;br&gt;" +
+"&lt;strong&gt;Nivel de desempeño:&lt;/strong&gt; " + nivel;
+}
+&lt;/script&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"20260602142806353FTM","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div style=\"overflow-x: auto;\"&gt;\n&lt;h3&gt;Lista de Cotejo sobre la Exposición Oral&lt;/h3&gt;\n&lt;!-- DATOS INFORMATIVOS --&gt;\n&lt;table style=\"width: 100%; border-collapse: collapse; border: 2px solid #000; margin-bottom: 15px;\"&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;Institución:&lt;/strong&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;Fecha:&lt;/strong&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;Estudiante:&lt;/strong&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;Curso:&lt;/strong&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;Tema:&lt;/strong&gt;&lt;/td&gt;\n&lt;td colspan=\"3\" style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;!-- LISTA DE COTEJO --&gt;\n&lt;table style=\"width: 100%; border-collapse: collapse; border: 2px solid #000;\"&gt;\n&lt;thead&gt;\n&lt;tr&gt;\n&lt;th style=\"border: 2px solid #000; padding: 8px;\"&gt;Indicadores&lt;/th&gt;\n&lt;th style=\"border: 2px solid #000; padding: 8px;\"&gt;Cumple&lt;/th&gt;\n&lt;th style=\"border: 2px solid #000; padding: 8px;\"&gt;No cumple&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;1. Saluda e introduce el tema con claridad al inicio de la exposición.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i1\" value=\"1\" /&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i1\" value=\"0\" /&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;2. Presenta los objetivos o propósito de la exposición.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i2\" value=\"1\" /&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i2\" value=\"0\" /&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;3. Utiliza un lenguaje claro y preciso.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i3\" value=\"1\" /&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i3\" value=\"0\" /&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;4. Desarrolla el tema con coherencia y un orden lógico.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i4\" value=\"1\" /&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i4\" value=\"0\" /&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;5. Demuestra conocimiento y dominio del tema.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i5\" value=\"1\" /&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i5\" value=\"0\" /&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;6. Mantiene una pronunciación, entonación y volumen adecuado.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i6\" value=\"1\" /&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i6\" value=\"0\" /&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;7. Hace contacto visual con el público durante la exposición.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i7\" value=\"1\" /&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i7\" value=\"0\" /&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;8. Emplea recursos de apoyo visual como diapositivas, esquemas, etc.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i8\" value=\"1\" /&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i8\" value=\"0\" /&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;9. Responde con seguridad las preguntas del público.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i9\" value=\"1\" /&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i9\" value=\"0\" /&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;10. Presenta conclusiones claras y cierra la exposición de manera ordenada.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i10\" value=\"1\" /&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; text-align: center;\"&gt;&lt;input type=\"radio\" name=\"i10\" value=\"0\" /&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;br /&gt;&lt;button type=\"button\" onclick=\"calificarListaCotejo()\" style=\"padding: 8px 15px;\"&gt; Calificar &lt;/button&gt;\n&lt;div id=\"resultado\" style=\"margin-top: 15px; padding: 10px; border: 2px solid #000;\"&gt;&lt;/div&gt;\n&lt;br /&gt;\n&lt;table style=\"width: 40%; border-collapse: collapse; border: 2px solid #000;\"&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th style=\"border: 2px solid #000; padding: 8px;\"&gt;Valoración&lt;/th&gt;\n&lt;th style=\"border: 2px solid #000; padding: 8px;\"&gt;Nivel&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;9 - 10&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;Excelente&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;7 - 8&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;Bueno&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;5 - 6&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;Regular&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;0 - 4&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;Insuficiente&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;/div&gt;\n&lt;script&gt;\nfunction calificarListaCotejo() {\n\nlet total = 0;\n\nfor(let i = 1; i &lt;= 10; i++) {\n\nlet opcion = document.querySelector('input[name=\"i' + i + '\"]:checked');\n\nif(opcion === null) {\ndocument.getElementById(\"resultado\").innerHTML =\n\"&lt;strong&gt;Debe seleccionar una opción en todos los indicadores.&lt;/strong&gt;\";\nreturn;\n}\n\ntotal += Number(opcion.value);\n}\n\nlet nivel = \"\";\n\nif(total &gt;= 9){\nnivel = \"Excelente\";\n}\nelse if(total &gt;= 7){\nnivel = \"Bueno\";\n}\nelse if(total &gt;= 5){\nnivel = \"Regular\";\n}\nelse{\nnivel = \"Insuficiente\";\n}\n\ndocument.getElementById(\"resultado\").innerHTML =\n\"&lt;strong&gt;Indicadores cumplidos:&lt;/strong&gt; \" + total + \" de 10&lt;br&gt;&lt;br&gt;\" +\n\"&lt;strong&gt;Calificación final:&lt;/strong&gt; \" + total.toFixed(2) + \" / 10&lt;br&gt;&lt;br&gt;\" +\n\"&lt;strong&gt;Nivel de desempeño:&lt;/strong&gt; \" + nivel;\n}\n&lt;/script&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure><odePagStructure><odePageId>20260602200206LTDZKO</odePageId><odeBlockId>20260602200206YMBEEM</odeBlockId><blockName/><iconName/><odePagStructureOrder>3</odePagStructureOrder><odePagStructureProperties><odePagStructureProperty><key>visibility</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>teacherOnly</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>allowToggle</key><value>true</value></odePagStructureProperty><odePagStructureProperty><key>minimized</key><value>false</value></odePagStructureProperty><odePagStructureProperty><key>identifier</key><value/></odePagStructureProperty><odePagStructureProperty><key>cssClass</key><value/></odePagStructureProperty></odePagStructureProperties><odeComponents><odeComponent><odePageId>20260602200206LTDZKO</odePageId><odeBlockId>20260602200206YMBEEM</odeBlockId><odeIdeviceId>20260602142826968GIL</odeIdeviceId><odeIdeviceTypeName>text</odeIdeviceTypeName><htmlView>&lt;div class="exe-text-template"&gt;&lt;div class="textIdeviceContent"&gt;
+            &lt;div class="exe-text-activity"&gt;
+                &lt;div&gt;&lt;div style="overflow-x: auto;"&gt;
+&lt;h3&gt;Rúbrica Analítica sobre un Trabajo en Grupo&lt;/h3&gt;
+&lt;!-- DATOS INFORMATIVOS --&gt;
+&lt;table style="width: 100%; border-collapse: collapse; border: 2px solid #000; margin-bottom: 15px;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;Institución:&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;Fecha:&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;Estudiante:&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;Curso:&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;Tema:&lt;/strong&gt;&lt;/td&gt;
+&lt;td colspan="3" style="border: 2px solid #000; padding: 8px;"&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;!-- RÚBRICA --&gt;
+&lt;table style="width: 100%; border-collapse: collapse; border: 2px solid #000;"&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style="border: 2px solid #000; padding: 8px;"&gt;Criterios&lt;/th&gt;
+&lt;th style="border: 2px solid #000; padding: 8px;"&gt;Excelente (3)&lt;/th&gt;
+&lt;th style="border: 2px solid #000; padding: 8px;"&gt;Satisfactorio (2)&lt;/th&gt;
+&lt;th style="border: 2px solid #000; padding: 8px;"&gt;Insuficiente (1)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;1. Participación y colaboración&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;input type="radio" name="c1" value="3"&gt; Participa activamente, aporta y coopera completamente con el grupo.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;input type="radio" name="c1" value="2"&gt; Participa en algunas actividades y colabora de manera ocasional.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;input type="radio" name="c1" value="1"&gt; Participa poco y escasa colaboración.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;2. Responsabilidad y cumplimiento&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;input type="radio" name="c2" value="3"&gt; Cumple puntualmente con las actividades asignadas y muestra compromiso.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;input type="radio" name="c2" value="2"&gt; Cumple con la mayoría de las actividades aunque con retraso.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;input type="radio" name="c2" value="1"&gt; No cumple con las actividades asignadas, necesita apoyo constante.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;3. Calidad del trabajo&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;input type="radio" name="c3" value="3"&gt; El trabajo es claro, ordenado, creativo y cumple con todo lo solicitado.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;input type="radio" name="c3" value="2"&gt; El trabajo cumple parcialmente con lo solicitado y presenta pocos errores.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;input type="radio" name="c3" value="1"&gt; El trabajo está incompleto, desordenado y presenta varios errores.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;strong&gt;4. Comunicación y respeto&lt;/strong&gt;&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;input type="radio" name="c4" value="3"&gt; Respeta las opiniones de los demás y mantiene buena comunicación.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;input type="radio" name="c4" value="2"&gt; Generalmente respeta y se comunica adecuadamente con el grupo.&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;&lt;input type="radio" name="c4" value="1"&gt; Presenta dificultad para respetar y comunicarse o escuchar al grupo.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;br&gt;&lt;button type="button" onclick="calificarRubrica()" style="padding: 8px 15px;"&gt; Calificar &lt;/button&gt;
+&lt;div id="resultadoRubrica" style="margin-top: 15px; padding: 10px; border: 2px solid #000;"&gt;&lt;/div&gt;
+&lt;br&gt;&lt;!-- TABLA DE PUNTAJE --&gt;
+&lt;table style="width: 50%; border-collapse: collapse; border: 2px solid #000;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;th style="border: 2px solid #000; padding: 8px;"&gt;Puntaje&lt;/th&gt;
+&lt;th style="border: 2px solid #000; padding: 8px;"&gt;Desempeño&lt;/th&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;10 - 12&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;Excelente desempeño&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;7 - 9&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;Buen desempeño&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;4 - 6&lt;/td&gt;
+&lt;td style="border: 2px solid #000; padding: 8px;"&gt;Mejorar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/div&gt;
+&lt;script&gt;
+function calificarRubrica() {
+
+let total = 0;
+
+for(let i = 1; i &lt;= 4; i++) {
+
+let opcion = document.querySelector('input[name="c'+i+'"]:checked');
+
+if(opcion === null){
+document.getElementById("resultadoRubrica").innerHTML =
+"&lt;strong&gt;Debe seleccionar una opción en todos los criterios.&lt;/strong&gt;";
+return;
+}
+
+total += Number(opcion.value);
+}
+
+let nota = ((total * 10) / 12).toFixed(2);
+
+let desempeno = "";
+
+if(total &gt;= 10){
+desempeno = "Excelente desempeño";
+}
+else if(total &gt;= 7){
+desempeno = "Buen desempeño";
+}
+else{
+desempeno = "Mejorar";
+}
+
+document.getElementById("resultadoRubrica").innerHTML =
+"&lt;strong&gt;Puntaje obtenido:&lt;/strong&gt; " + total + " de 12 puntos&lt;br&gt;&lt;br&gt;" +
+"&lt;strong&gt;Regla de tres aplicada:&lt;/strong&gt;&lt;br&gt;" +
+"12 puntos = 10&lt;br&gt;" +
+total + " puntos = X&lt;br&gt;" +
+"X = (" + total + " × 10) ÷ 12&lt;br&gt;&lt;br&gt;" +
+"&lt;strong&gt;Calificación final:&lt;/strong&gt; " + nota + " / 10&lt;br&gt;&lt;br&gt;" +
+"&lt;strong&gt;Nivel de desempeño:&lt;/strong&gt; " + desempeno;
+}
+&lt;/script&gt;&lt;p class="clearfix"&gt;&lt;/p&gt;&lt;/div&gt;
+            &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</htmlView><jsonProperties>{"ideviceId":"20260602142826968GIL","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"&lt;div style=\"overflow-x: auto;\"&gt;\n&lt;h3&gt;Rúbrica Analítica sobre un Trabajo en Grupo&lt;/h3&gt;\n&lt;!-- DATOS INFORMATIVOS --&gt;\n&lt;table style=\"width: 100%; border-collapse: collapse; border: 2px solid #000; margin-bottom: 15px;\"&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;Institución:&lt;/strong&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;Fecha:&lt;/strong&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;Estudiante:&lt;/strong&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;Curso:&lt;/strong&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;Tema:&lt;/strong&gt;&lt;/td&gt;\n&lt;td colspan=\"3\" style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;!-- RÚBRICA --&gt;\n&lt;table style=\"width: 100%; border-collapse: collapse; border: 2px solid #000;\"&gt;\n&lt;thead&gt;\n&lt;tr&gt;\n&lt;th style=\"border: 2px solid #000; padding: 8px;\"&gt;Criterios&lt;/th&gt;\n&lt;th style=\"border: 2px solid #000; padding: 8px;\"&gt;Excelente (3)&lt;/th&gt;\n&lt;th style=\"border: 2px solid #000; padding: 8px;\"&gt;Satisfactorio (2)&lt;/th&gt;\n&lt;th style=\"border: 2px solid #000; padding: 8px;\"&gt;Insuficiente (1)&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;1. Participación y colaboración&lt;/strong&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;input type=\"radio\" name=\"c1\" value=\"3\" /&gt; Participa activamente, aporta y coopera completamente con el grupo.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;input type=\"radio\" name=\"c1\" value=\"2\" /&gt; Participa en algunas actividades y colabora de manera ocasional.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;input type=\"radio\" name=\"c1\" value=\"1\" /&gt; Participa poco y escasa colaboración.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;2. Responsabilidad y cumplimiento&lt;/strong&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;input type=\"radio\" name=\"c2\" value=\"3\" /&gt; Cumple puntualmente con las actividades asignadas y muestra compromiso.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;input type=\"radio\" name=\"c2\" value=\"2\" /&gt; Cumple con la mayoría de las actividades aunque con retraso.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;input type=\"radio\" name=\"c2\" value=\"1\" /&gt; No cumple con las actividades asignadas, necesita apoyo constante.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;3. Calidad del trabajo&lt;/strong&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;input type=\"radio\" name=\"c3\" value=\"3\" /&gt; El trabajo es claro, ordenado, creativo y cumple con todo lo solicitado.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;input type=\"radio\" name=\"c3\" value=\"2\" /&gt; El trabajo cumple parcialmente con lo solicitado y presenta pocos errores.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;input type=\"radio\" name=\"c3\" value=\"1\" /&gt; El trabajo está incompleto, desordenado y presenta varios errores.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;strong&gt;4. Comunicación y respeto&lt;/strong&gt;&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;input type=\"radio\" name=\"c4\" value=\"3\" /&gt; Respeta las opiniones de los demás y mantiene buena comunicación.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;input type=\"radio\" name=\"c4\" value=\"2\" /&gt; Generalmente respeta y se comunica adecuadamente con el grupo.&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;&lt;input type=\"radio\" name=\"c4\" value=\"1\" /&gt; Presenta dificultad para respetar y comunicarse o escuchar al grupo.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;br /&gt;&lt;button type=\"button\" onclick=\"calificarRubrica()\" style=\"padding: 8px 15px;\"&gt; Calificar &lt;/button&gt;\n&lt;div id=\"resultadoRubrica\" style=\"margin-top: 15px; padding: 10px; border: 2px solid #000;\"&gt;&lt;/div&gt;\n&lt;br /&gt;&lt;!-- TABLA DE PUNTAJE --&gt;\n&lt;table style=\"width: 50%; border-collapse: collapse; border: 2px solid #000;\"&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th style=\"border: 2px solid #000; padding: 8px;\"&gt;Puntaje&lt;/th&gt;\n&lt;th style=\"border: 2px solid #000; padding: 8px;\"&gt;Desempeño&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;10 - 12&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;Excelente desempeño&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;7 - 9&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;Buen desempeño&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;4 - 6&lt;/td&gt;\n&lt;td style=\"border: 2px solid #000; padding: 8px;\"&gt;Mejorar&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;/div&gt;\n&lt;script&gt;\nfunction calificarRubrica() {\n\nlet total = 0;\n\nfor(let i = 1; i &lt;= 4; i++) {\n\nlet opcion = document.querySelector('input[name=\"c'+i+'\"]:checked');\n\nif(opcion === null){\ndocument.getElementById(\"resultadoRubrica\").innerHTML =\n\"&lt;strong&gt;Debe seleccionar una opción en todos los criterios.&lt;/strong&gt;\";\nreturn;\n}\n\ntotal += Number(opcion.value);\n}\n\nlet nota = ((total * 10) / 12).toFixed(2);\n\nlet desempeno = \"\";\n\nif(total &gt;= 10){\ndesempeno = \"Excelente desempeño\";\n}\nelse if(total &gt;= 7){\ndesempeno = \"Buen desempeño\";\n}\nelse{\ndesempeno = \"Mejorar\";\n}\n\ndocument.getElementById(\"resultadoRubrica\").innerHTML =\n\"&lt;strong&gt;Puntaje obtenido:&lt;/strong&gt; \" + total + \" de 12 puntos&lt;br&gt;&lt;br&gt;\" +\n\"&lt;strong&gt;Regla de tres aplicada:&lt;/strong&gt;&lt;br&gt;\" +\n\"12 puntos = 10&lt;br&gt;\" +\ntotal + \" puntos = X&lt;br&gt;\" +\n\"X = (\" + total + \" × 10) ÷ 12&lt;br&gt;&lt;br&gt;\" +\n\"&lt;strong&gt;Calificación final:&lt;/strong&gt; \" + nota + \" / 10&lt;br&gt;&lt;br&gt;\" +\n\"&lt;strong&gt;Nivel de desempeño:&lt;/strong&gt; \" + desempeno;\n}\n&lt;/script&gt;","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}</jsonProperties><odeComponentsOrder>1</odeComponentsOrder><odeComponentsProperties><odeComponentsProperty><key>visibility</key><value>true</value></odeComponentsProperty><odeComponentsProperty><key>teacherOnly</key><value>false</value></odeComponentsProperty><odeComponentsProperty><key>identifier</key><value/></odeComponentsProperty><odeComponentsProperty><key>cssClass</key><value/></odeComponentsProperty></odeComponentsProperties></odeComponent></odeComponents></odePagStructure></odePagStructures></odeNavStructure></odeNavStructures></ode>
